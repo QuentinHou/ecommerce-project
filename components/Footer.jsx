@@ -7,7 +7,7 @@ const Footer = () => {
       <p>2022 QH Developpement</p>
       <p className='icons'>
         <AiFillGithub className='icons-network' onClick={() => {window.open('https://github.com/QuentinHou')}} />
-        <AiFillChrome className='icons-network' onClick={() => {window.open('')}}/>
+        <AiFillChrome className='icons-network' onClick={() => {window.open('https://porfolio-quentin-hourcadette.vercel.app/')}}/>
         <AiFillLinkedin className='icons-network' onClick={() => {window.open('https://www.linkedin.com/in/quentin-hourcadette-72619421a/')}}/>
       </p>
     </div>
